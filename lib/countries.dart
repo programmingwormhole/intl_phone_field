@@ -6541,7 +6541,7 @@ const List<Country> countries = [
     code: "SE",
     dialCode: "46",
     minLength: 7,
-    maxLength: 13,
+    maxLength: 9,
   ),
   Country(
     name: "Switzerland",
